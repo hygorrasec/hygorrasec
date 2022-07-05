@@ -5,10 +5,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 📫 How to reach me: hygorrasec@gmail.com
 - 😄 Pronouns: Rasec
-- ⚡ Fun fact: I love technology and multiplayer games.
-
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hygorrasec&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+- ⚡ Fun fact: I love technology and multiplayer games
 
 _A little bit of everything I've ever used:_
 
@@ -49,3 +46,5 @@ _A little bit of everything I've ever used:_
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hygorrasec&row=1)](https://github.com/ryo-ma/github-profile-trophy)
