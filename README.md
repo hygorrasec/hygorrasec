@@ -48,3 +48,4 @@ _A little bit of everything I've ever used:_
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hygorrasec&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/allystor/allystor/output/github-contribution-grid-snake.svg">
