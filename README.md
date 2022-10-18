@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Digital Designer
-- 🌱 I’m currently learning Software Engineering 
-- 👯 I’m looking to collaborate on Web Development
+- 🔭 I’m currently working as a Junior Software Development Analyst
+- 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: hygorrasec@gmail.com
 - 😄 Pronouns: Rasec
 - ⚡ Fun fact: I love technology and multiplayer games
