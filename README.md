@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Junior Software Development Analyst
+- 🔭 I’m currently working as a System Programmer
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: hygorrasec@gmail.com
 - 😄 Pronouns: Rasec
