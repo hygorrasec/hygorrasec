@@ -1,12 +1,8 @@
-### Hi there 👋
+### Olá 👋
 
-- 🔭 I’m currently working as a System Programmer
-- 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me: hygorrasec@gmail.com
-- 😄 Pronouns: Rasec
-- ⚡ Fun fact: I love technology and multiplayer games
+Engenheiro de Software, Empresário, Programador de Sistemas com especialização em automação e Analista de Dados. Com sólida formação técnica, atuo na coordenação da qualidade de software, sendo responsável pelo planejamento e execução de testes (funcionais, não funcionais, regressivos e de performance), automação de processos, identificação de falhas e análise de conformidade técnica e de negócio. Promovo boas práticas de desenvolvimento, incluindo revisão de código, versionamento, documentação técnica clara e acessível, além da integração contínua com equipes ágeis. Também atuo na identificação e proposição de soluções tecnológicas, alinhadas à estratégia organizacional, além de realizar a gestão de riscos, validação de entregas e apoio à tomada de decisões com base em dados. Sou criador do Desolara RPG, um jogo de navegador que combina estratégia e inovação. Minha trajetória une experiência prática em tecnologia com uma abordagem criativa, sempre voltada ao desenvolvimento de soluções com impacto real. Atualmente, também me dedico à formação de novos talentos, com foco em excelência, transformação e inovação contínua, tendo capacitado mais de 100 profissionais na criação de games digitais.
 
-_A little bit of everything I've ever used:_
+_Um pouco de tudo que já usei:_
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
