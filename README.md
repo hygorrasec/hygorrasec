@@ -1,46 +1,116 @@
-### Olá 👋
+<h1 align="center">Olá 👋, eu sou Hygor Rasec</h1>
 
-Engenheiro de Software, Empresário, Programador de Sistemas com especialização em automação e Analista de Dados. Com sólida formação técnica, atuo na coordenação da qualidade de software, sendo responsável pelo planejamento e execução de testes (funcionais, não funcionais, regressivos e de performance), automação de processos, identificação de falhas e análise de conformidade técnica e de negócio. Promovo boas práticas de desenvolvimento, incluindo revisão de código, versionamento, documentação técnica clara e acessível, além da integração contínua com equipes ágeis. Também atuo na identificação e proposição de soluções tecnológicas, alinhadas à estratégia organizacional, além de realizar a gestão de riscos, validação de entregas e apoio à tomada de decisões com base em dados. Sou criador do Desolara RPG, um jogo de navegador que combina estratégia e inovação. Minha trajetória une experiência prática em tecnologia com uma abordagem criativa, sempre voltada ao desenvolvimento de soluções com impacto real. Atualmente, também me dedico à formação de novos talentos, com foco em excelência, transformação e inovação contínua, tendo capacitado mais de 100 profissionais na criação de games digitais.
+<p align="center">
+Engenheiro de Software • Empresário • Analista de Dados • Criador do <b>Desolara RPG</b>
+</p>
 
-_Um pouco de tudo que já usei:_
+---
 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+## 👨‍💻 Sobre mim
+
+Sou **Engenheiro de Software e Programador de Sistemas**, com especialização em **automação e análise de dados**.
+
+Atuo com:
+
+- Planejamento e execução de **testes de software** (funcionais, regressivos, performance)
+- **Automação de processos**
+- **Análise de conformidade técnica e de negócio**
+- **Boas práticas de desenvolvimento**
+- **Revisão de código, versionamento e documentação técnica**
+- **Integração contínua e colaboração em equipes ágeis**
+
+Também sou criador do **Desolara RPG**, um jogo de navegador que combina estratégia e inovação.
+
+Minha trajetória une **tecnologia, criatividade e empreendedorismo**, sempre focado em desenvolver soluções com impacto real.
+
+Atualmente também me dedico à **formação de novos talentos em tecnologia**, já tendo capacitado **mais de 100 profissionais na criação de games digitais**.
+
+---
+
+# 🚀 Tecnologias e Ferramentas
+
+## 💻 Linguagens
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php)
+![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby)
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hygorrasec&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://raw.githubusercontent.com/allystor/allystor/output/github-contribution-grid-snake.svg">
+---
+
+## ⚙️ Frameworks e Tecnologias
+
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+## 🗄️ Banco de Dados
+
+![MySQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite)
+
+---
+
+## 🧰 Ferramentas
+
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Apache](https://img.shields.io/badge/apache-D42029?style=for-the-badge&logo=apache)
+![VS Code](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code)
+![Trello](https://img.shields.io/badge/trello-026AA7?style=for-the-badge&logo=trello)
+
+---
+
+## 🖥️ Sistemas Operacionais
+
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows)
+![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android)
+
+---
+
+## 🎨 Design e Multimídia
+
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva)
+![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender)
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
+![Adobe Illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator)
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hygorrasec&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorrasec&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Conquistas no GitHub
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hygorrasec&theme=darkhub&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribuições
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/hygorrasec/hygorrasec/output/github-contribution-grid-snake.svg"/>
+
+</p>
