@@ -82,35 +82,3 @@ Atualmente também me dedico à **formação de novos talentos em tecnologia**, 
 ![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender)
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator)
-
----
-
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hygorrasec&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorrasec&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Conquistas no GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hygorrasec&theme=darkhub&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/hygorrasec/hygorrasec/output/github-contribution-grid-snake.svg"/>
-
-</p>
