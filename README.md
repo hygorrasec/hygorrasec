@@ -12,12 +12,12 @@ Sou **Engenheiro de Software e Programador de Sistemas**, com especialização e
 
 Atuo com:
 
-- Planejamento e execução de **testes de software** (funcionais, regressivos, performance)
-- **Automação de processos**
-- **Análise de conformidade técnica e de negócio**
-- **Boas práticas de desenvolvimento**
-- **Revisão de código, versionamento e documentação técnica**
-- **Integração contínua e colaboração em equipes ágeis**
+- Planejamento e execução de testes de software (funcionais, regressivos, performance)
+- Automação de processos
+- Análise de conformidade técnica e de negócio
+- Boas práticas de desenvolvimento
+- Revisão de código, versionamento e documentação técnica
+- Integração contínua e colaboração em equipes ágeis
 
 Também sou criador do **Desolara RPG**, um jogo de navegador que combina estratégia e inovação.
 
