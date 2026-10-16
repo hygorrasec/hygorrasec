@@ -14,7 +14,7 @@ Minha trajetória une **tecnologia, criatividade e empreendedorismo**, sempre fo
 
 ---
 
-## 🌐 Portifólio
+## 🌐 Portfólio
 
 <p align="center">
   <a href="https://hricsoftware.com" target="_blank">
